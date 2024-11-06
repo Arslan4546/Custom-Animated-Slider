@@ -22,4 +22,4 @@ A smooth, interactive, and fully customizable animated slider component. Perfect
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imSanjaySoni/Animated-Slider.git
+   git clone https://github.com/Arslan4546/Custom-Animated-Slider.git
